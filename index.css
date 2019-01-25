@@ -1,0 +1,10 @@
+p{
+  text-align: center;
+}
+
+html{
+  background-color: grey;
+}
+img{
+transform: translate(300%);
+}
